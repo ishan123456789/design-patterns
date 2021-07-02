@@ -3,7 +3,7 @@ Creational design patterns are concerned with the way of creating objects. These
 Types of creational design patterns
 There are following 6 types of creational design patterns.
 
-- Factory Method Pattern
+- [Factory Method Pattern](./factoryMethodPattern.ts)
 - Abstract Factory Pattern
 - Singleton Pattern
 - Prototype Pattern
