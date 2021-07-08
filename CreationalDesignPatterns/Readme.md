@@ -4,8 +4,8 @@ Types of creational design patterns
 There are following 6 types of creational design patterns.
 
 - [Factory Method Pattern](./factoryMethodPattern.ts)
-- Abstract Factory Pattern
-- Singleton Pattern
-- Prototype Pattern
-- Builder Pattern
-- Object Pool Pattern
+- [Abstract Factory Pattern](./abstractFactoryPattern.ts)
+- [Singleton Pattern](./singletonPattern.ts)
+- [Prototype Pattern](./prototypeDesignPattern.ts)
+- [Builder Pattern](./builderPattern.ts)
+- [Object Pool Pattern](./objectPoolPattern.ts)
