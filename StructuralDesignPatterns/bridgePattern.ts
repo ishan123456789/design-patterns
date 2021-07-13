@@ -1,5 +1,8 @@
 /**
- It let's you split a large class or a set of closely related classes into two separate hierarchies—abstraction and implementation—which can be developed independently of each other.
+https://refactoring.guru/design-patterns/bridge
+https://www.geeksforgeeks.org/bridge-design-pattern
+
+It let's you split a large class or a set of closely related classes into two separate hierarchies—abstraction and implementation—which can be developed independently of each other.
 Suppose you have a Shape class in which you want to extend a color class
 The number of combination would be like cartesian product of the above 
 So suppose we have 2 Colors, 2 Shapes we would now require 4 class combinations
