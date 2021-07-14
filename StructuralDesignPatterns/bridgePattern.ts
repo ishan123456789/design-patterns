@@ -125,3 +125,4 @@ BridgePattern.ManufactureBikeAndCar();
         Workshop -> 
                         -> Produce
  */
+// We separate orthogonal attributes which can work independently.
