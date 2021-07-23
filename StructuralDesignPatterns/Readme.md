@@ -4,23 +4,23 @@ The structural design patterns simplifies the structure by identifying the relat
 
 These patterns focus on, how the classes inherit from each other and how they are composed from other classes.
 
-Adapter Pattern
+[Adapter Pattern](./adapterPattern.ts)
 Adapting an interface into another according to client expectation.
 
-Bridge Pattern
+[Bridge Pattern](./bridgePattern.ts)
 Separating abstraction (interface) from implementation.
 
-Composite Pattern
+[Composite Pattern](./compositePattern.ts)
 Allowing clients to operate on hierarchy of objects.
 
-Decorator Pattern
+[Decorator Pattern](./decoratorPattern.ts)
 Adding functionality to an object dynamically.
 
-Facade Pattern
+[Facade Pattern](./facadePattern.ts)
 Providing an interface to a set of interfaces.
 
-Flyweight Pattern
+[Flyweight Pattern](./flyweightPattern.ts)
 Reusing an object by sharing it.
 
-proxy Pattern
+[proxy Pattern](./proxyPattern.ts)
 Representing another object.
