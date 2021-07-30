@@ -4,7 +4,8 @@ Converts requests or simple operations into objects.
 The command execution method doesn’t have any parameters, the command should be either pre-configured with this data, or capable of getting it on its own.
 - Use the Command pattern when you want to parametrize objects with operations.
 - Use the Command pattern when you want to queue operations, schedule their execution, or execute them remotely.
-Single Responsibility Principle. You can decouple classes that invoke operations from classes that perform these operations.
+Pros:
+- Single Responsibility Principle. You can decouple classes that invoke operations from classes that perform these operations.
 - Open/Closed Principle. You can introduce new commands into the app without breaking existing client code.
 - You can implement undo/redo.
 - You can implement deferred execution of operations.
